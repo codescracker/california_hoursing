@@ -1,4 +1,6 @@
-The project analyze the Carlifornia real estate market in 1990. The project includes 2 parts:
+#The project analyze the Carlifornia real estate market in 1990.
+
+The project includes 2 parts:
 ===
 
 ### 1. Exploratory data analysis
